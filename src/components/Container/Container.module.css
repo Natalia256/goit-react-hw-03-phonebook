@@ -1,0 +1,6 @@
+.container {
+    margin: 0 auto;
+    width: 90%;
+    padding: 15px;
+   justify-content: space-around;
+  }
